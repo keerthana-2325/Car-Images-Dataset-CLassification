@@ -52,7 +52,7 @@ These metrics provide a holistic view of model accuracy and reliability.
 
 1. Clone this repository:  
    ```bash
-   git clone https://github.com/<your-username>/<repo-name>.git
+   git clone https://github.com/<keerthana-2325>/<Car-Images-Dataset-CLassification>.git
    cd <repo-name>
 
 2. Install dependencies:  
